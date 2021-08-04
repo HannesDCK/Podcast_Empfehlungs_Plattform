@@ -1,0 +1,14 @@
+.content {border-style: double;
+  background: white;
+  color: cyan;
+}
+
+.header {
+  background: white;
+  color: yellow;
+}
+
+aside {
+  float: right;
+  width: 50%;
+}
